@@ -38,8 +38,8 @@ function App() {
       
       <footer className="bg-gray-100 mt-12">
         <div className="container mx-auto px-4 py-6 text-center text-gray-600">
-          <p>&copy; 2024 Reaktionsskema.dk. Lavet med ♥ til kemi og naturvidenskab.</p>
-          <p className="mt-2">Kærlig hilsen <a href="https://github.com/kongseb" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">kongseb</a></p>
+          <p className="mb-2">Lavet med ♥ til kemi og naturvidenskab af <a href="https://github.com/kongseb" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">kongseb</a>.</p>
+          <p className="text-sm">&copy; 2024 Reaktionsskema.dk</p>
         </div>
       </footer>
     </div>
