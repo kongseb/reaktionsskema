@@ -1,5 +1,5 @@
 import React from 'react';
-import { Beaker } from 'lucide-react';
+import { FlaskConical } from 'lucide-react';
 import GameSelector from './components/GameSelector';
 import BalancingGame from './components/BalancingGame';
 import ChemistryExplainer from './components/ChemistryExplainer';
@@ -13,7 +13,7 @@ function App() {
         <div className="container mx-auto px-4 py-6 flex items-center justify-center">
           <div className="flex items-center space-x-2">
             <div className="relative">
-              <Beaker className="text-green-600 w-12 h-12" />
+              <FlaskConical className="text-green-600 w-12 h-12" />
               <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white font-bold text-xs">
                 
               </div>
