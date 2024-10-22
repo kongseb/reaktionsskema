@@ -18,7 +18,7 @@ function App() {
                 
               </div>
             </div>
-            <h1 className="text-3xl font-bold text-gray-800">returneaktionsskema.dk</h1>
+            <h1 className="text-3xl font-bold text-gray-800">Reaktionsskema.dk</h1>
           </div>
         </div>
       </header>
@@ -39,7 +39,7 @@ function App() {
       <footer className="bg-gray-100 mt-12">
         <div className="container mx-auto px-4 py-6 text-center text-gray-600">
           <p>&copy; 2024 Reaktionsskema.dk. Lavet med ♥ til kemi og naturvidenskab.</p>
-          <p className="mt-2">Fra Seb til den nysgerrige elev</p>
+          <p className="mt-2">Lavet af Seb</p>
         </div>
       </footer>
     </div>
